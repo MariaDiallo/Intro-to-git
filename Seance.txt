@@ -1,6 +1,6 @@
-Les commandes important :
+Les commandes important qui permettent d'envoyer sur github:
 git int 
 git add .
 git commit -m "commentaire"
 git remote
-git push origin master
+git push origin master: permet de mettre en ligne
