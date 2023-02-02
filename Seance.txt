@@ -1,0 +1,6 @@
+Les commandes important :
+git int 
+git add .
+git commit -m "commentaire"
+git remote
+git push origin master
